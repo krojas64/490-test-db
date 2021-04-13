@@ -1,18 +1,40 @@
 {
-	"users": [{
-		"user": "Bill", 
-		"win": 5, 
-		"loss": 3, 
-		"tie" : 1,
-		"records" : [
-			{"Opponent" : "Mike", "Outcome" : "L", "Date" : "3-25-21"},
-			{"Opponent" : "Naman", "Outcome" : "L", "Date" : "3-14-21"},
-			{"Opponent" : "Karel", "Outcome" : "W", "Date" : "2-17-21"},
-			{"Opponent" : "Joe", "Outcome" : "L", "Date" : "2-10-21"},
-			{"Opponent" : "Ronak", "Outcome" : "W", "Date" : "2-06-21"},
-		]
-	}],
-	"profile": { 
-	  "name": "typicode" 
-	}
+   "users":[
+      {
+         "user":"Bill",
+         "win":5,
+         "loss":3,
+         "tie":1,
+         "records":[
+            {
+               "Opponent":"Mike",
+               "Outcome":"L",
+               "Date":"3-25-21"
+            },
+            {
+               "Opponent":"Naman",
+               "Outcome":"L",
+               "Date":"3-14-21"
+            },
+            {
+               "Opponent":"Karel",
+               "Outcome":"W",
+               "Date":"2-17-21"
+            },
+            {
+               "Opponent":"Joe",
+               "Outcome":"L",
+               "Date":"2-10-21"
+            },
+            {
+               "Opponent":"Ronak",
+               "Outcome":"W",
+               "Date":"2-06-21"
+            }
+         ]
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
